@@ -1,4 +1,4 @@
-Check out deployed website https://admin-dashboard-20.netlify.app/
+Check out deployed application https://admin-dashboard-20.netlify.app/
 
 # Getting Started with Create React App
 
